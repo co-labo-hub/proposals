@@ -2,26 +2,25 @@
 
 Stage 0 proposals which appear below are either:
 
-- planned to be presented to the committee by a TC39 champion, or
-- have been presented to the committee and not rejected definitively, but have not yet achieved any of the criteria to get into stage 1.
+* planned to be presented to the committee by a TC39 champion, or
+* have been presented to the committee and not rejected definitively, but have not yet achieved any of the criteria to get into stage 1.
 
-| Proposal                                                           | Author                             | Champion                              | Last Presented              |
-| ------------------------------------------------------------------ | ---------------------------------- | ------------------------------------- | --------------------------- |
-| [Additional metaproperties][metaprops]                             | Allen Wirfs-Brock                  | Allen Wirfs-Brock                     |                             |
-| [Defensible Classes][defensible-classes]                           | Mark Miller<br />Doug Crockford    | Mark Miller<br />Doug Crockford       |                             |
-| [Function bind syntax][bind-syntax]                                | Kevin Smith                        | Brian Terlson<br />Matthew Podwysocki | [March 2015][bind-notes]    |
-| [Function expression decorators][func-expr-decorators]             | Igor Minar                         | Igor Minar                            |                             |
-| [Method parameter decorators][method-param-decorators]             | Igor Minar                         | Igor Minar                            |                             |
-| [Nested `import` declarations][nested-imports]                     | Ben Newman                         | Ben Newman                            | [July 2016][nested-notes]   |
-| [Orthogonal Classes][ortho]                                        | Mark Miller<br />Allen Wirfs-Brock | Mark Miller<br />Allen Wirfs-Brock    | [March 2017][ortho-notes]   |
-| [`Reflect.{isCallable,isConstructor}`][is-callable-is-constructor] | Caitlin Potter                     | Caitlin Potter                        |                             |
-| [Relationships][relationships]                                     | Mark Miller<br />Waldemar Horwat   | Mark Miller<br />Waldemar Horwat      |                             |
-| [Structured Clone][clone]                                          | Dmitry Lomov                       | Dmitry Lomov                          | [Jan 2014][clone-notes]     |
-| [Object Shorthand Improvements][object-shorthand-improvements]     | Ron Buckton                        | Ron Buckton                           | [Sep 2017][shorthand-notes] |
-| [`as` destructuring patterns][as-patterns]                         | Kat Marchán                        | Kat Marchán                           |                             |
-| [String trim characters][string-trim-characters]                   | Wenlu Wang                         | Wenlu Wang                            |                             |
-| [Catch Guard][catch-guard]                                         | Willian Martins                    | Willian Martins                       |                             |
-| [Limiting the Scope of export][limit-export-scope]                 | tt                                 | tt                                    |                             |
+| Proposal                                                           | Author                                | Champion                              | Last Presented                    |
+| ------------------------------------------------------------------ | ------------------------------------- | ------------------------------------- | --------------------------------- |
+| [Additional metaproperties][metaprops]                             | Allen Wirfs-Brock                     | Allen Wirfs-Brock                     |                                   |
+| [Defensible Classes][defensible-classes]                           | Mark Miller<br />Doug Crockford       | Mark Miller<br />Doug Crockford       |                                   |
+| [Function bind syntax][bind-syntax]                                | Kevin Smith                           | Brian Terlson<br />Matthew Podwysocki | [March 2015][bind-notes]          |
+| [Function expression decorators][func-expr-decorators]             | Igor Minar                            | Igor Minar                            |                                   |
+| [Method parameter decorators][method-param-decorators]             | Igor Minar                            | Igor Minar                            |                                   |
+| [Nested `import` declarations][nested-imports]                     | Ben Newman                            | Ben Newman                            | [July 2016][nested-notes]         |
+| [Orthogonal Classes][ortho]                                        | Mark Miller<br />Allen Wirfs-Brock    | Mark Miller<br />Allen Wirfs-Brock    | [March 2017][ortho-notes]         |
+| [`Reflect.{isCallable,isConstructor}`][is-callable-is-constructor] | Caitlin Potter                        | Caitlin Potter                        |                                   |
+| [Relationships][relationships]                                     | Mark Miller<br />Waldemar Horwat      | Mark Miller<br />Waldemar Horwat      |                                   |
+| [Structured Clone][clone]                                          | Dmitry Lomov                          | Dmitry Lomov                          | [Jan 2014][clone-notes]           |
+| [Object Shorthand Improvements][object-shorthand-improvements]     | Ron Buckton                           | Ron Buckton                           | [Sep 2017][shorthand-notes]       |
+| [`as` destructuring patterns][as-patterns]                         | Kat Marchán                           | Kat Marchán                           |                                   |
+| [String trim characters][string-trim-characters]                   | Wenlu Wang                            | Wenlu Wang                            |                                   |
+| [Catch Guard][catch-guard]                                         | Willian Martins                       | Willian Martins                       |                                   |
 
 See also the [active proposals](README.md), [stage 1 proposals](stage-1-proposals.md), [finished proposals](finished-proposals.md), and [inactive proposals](inactive-proposals.md) documents.
 
@@ -45,4 +44,3 @@ See also the [active proposals](README.md), [stage 1 proposals](stage-1-proposal
 [builtins-notes]: https://github.com/tc39/notes/blob/HEAD/meetings/2017-09/sept-28.md#14ia-builtinstypeof-and-builtinsis
 [string-trim-characters]: https://github.com/Kingwl/proposal-string-trim-characters
 [catch-guard]: https://github.com/wmsbill/proposal-catch-guards
-[limit-export-scope]: https://github.com/co-labo-hub/proposals

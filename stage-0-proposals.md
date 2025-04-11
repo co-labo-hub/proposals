@@ -45,4 +45,4 @@ See also the [active proposals](README.md), [stage 1 proposals](stage-1-proposal
 [builtins-notes]: https://github.com/tc39/notes/blob/HEAD/meetings/2017-09/sept-28.md#14ia-builtinstypeof-and-builtinsis
 [string-trim-characters]: https://github.com/Kingwl/proposal-string-trim-characters
 [catch-guard]: https://github.com/wmsbill/proposal-catch-guards
-[limit-export-scope]: https://github.com/co-labo-hub/proposals/tree/stage-0-proposal-limit-export-scope
+[limit-export-scope]: https://github.com/co-labo-hub/ecma-export-proposal
